@@ -48,14 +48,52 @@
 
 ---
 
-### 📈 Statistiques GitHub
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ccaipp-art&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ccaipp-art&layout=compact&theme=tokyonight" height="150" />
-</p>
+### 🌐 Systèmes & Réseaux
+![Linux](https://img.shields.io/badge/Linux-🐧-333?logo=linux)
+![Debian](https://img.shields.io/badge/Debian-✔-a81d33?logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-✔-e95420?logo=ubuntu&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-Best%20Practices-6d6e71)
+![Patch%20Mgmt](https://img.shields.io/badge/Patch%20management-✅-555)
+![Hardening](https://img.shields.io/badge/Hardening-🔒-555)
+
+### 🔒 Supervision & Sécurité
+![Prometheus](https://img.shields.io/badge/Prometheus-✔-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-✔-F46800?logo=grafana&logoColor=white)
+![Alerting](https://img.shields.io/badge/Alerting-📣-555)
+![ANSSI](https://img.shields.io/badge/Guides%20ANSSI-📘-0b5fff)
+
+### ⚙️ DevOps & Automatisation
+![Git](https://img.shields.io/badge/Git-✔-F05032?logo=git&logoColor=white)
+![GitLab%20CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-✔-fc6d26?logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-✔-EE0000?logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-✔-4EAA25?logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-✔-2496ED?logo=docker&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-🚀-555)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-✔-232F3E?logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-🔐-232F3E)
+![S3](https://img.shields.io/badge/AWS%20S3-📦-569A31)
+
+### 🗃️ Bases de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✔-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-✔-336791)
+
+### 🧩 Collaboration & Documentation
+![Notion](https://img.shields.io/badge/Notion-✔-000000?logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-✔-0052CC?logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-✔-0052CC?logo=trello&logoColor=white)
+![Tech%20Writing](https://img.shields.io/badge/Rédaction%20tech-📝-555)
 
 ---
+
+### 📈 En cours d’approfondissement
+![Kubernetes](https://img.shields.io/badge/Kubernetes-WIP-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-WIP-844FBA?logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-WIP-3776AB?logo=python&logoColor=white)
+
 
 ### 🤝 Me contacter
 
