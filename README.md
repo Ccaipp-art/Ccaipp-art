@@ -73,10 +73,12 @@
 
 ### 🎓 Formation
 
-[![Wild Code School](https://img.shields.io/badge/Wild%20Code%20School-AIS-ff477e?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.wildcodeschool.com/fr-fr/)
+[![Wild Code School](https://img.shields.io/badge/Wild%20Code%20School-AIS-ff477e?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.wildcodeschool.com/entreprise)
 
 **Administrateur d’Infrastructures Sécurisées (AIS)** — *Wild Code School*  
 Rythme : 3 semaines entreprise / 1 semaine école (2026 → 2027)
+
+[![Programme de formation](https://img.shields.io/badge/📘%20Consulter%20le%20programme%20de%20formation-0ea5e9?style=for-the-badge)](https://drive.google.com/drive/folders/1DUZgEuF1P5aHJ33YwddJcG51iK5j6dnX)
 
 ---
 ## 🧰 Technologies & Tools
