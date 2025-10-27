@@ -1,4 +1,4 @@
-<h1>👋 Salut, je suis Théo 🌱</h1>
+<h1 align=center>👋 Salut, je suis Théo 🌱</h1>
 
 <p align="center">
   <b>Administrateur d’Infrastructures Sécurisées (AIS)</b> — sécurité des systèmes, automatisation & fiabilité IT.<br/>
