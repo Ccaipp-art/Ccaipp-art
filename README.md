@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Théo 🌱</h1>
+<h1>👋 Salut, je suis Théo 🌱</h1>
 
 <p align="center">
   <b>Administrateur d’Infrastructures Sécurisées (AIS)</b> — sécurité des systèmes, automatisation & fiabilité IT.<br/>
@@ -6,7 +6,7 @@
 </p>
 
 ---
-<h1 align="center">À propos de moi</h1>
+<h1>À propos de moi</h1>
 
 <p align="center">
 
@@ -19,7 +19,7 @@
 > “La sécurité n’est pas un état, c’est un processus continu.”
 
 ---
-<h1 align="center">🧠 Compétences</h1>
+<h1>🧠 Compétences</h1>
 
 <p align="center">
 
@@ -32,7 +32,7 @@
 | 🧩 **Collaboration** | Notion, JIRA, Trello, rédaction technique |
 
 ---
-<h1 align="center">🚀 Projets mis en avant</h1>
+<h1>🚀 Projets mis en avant</h1>
 
 <p align="center">
 
@@ -45,7 +45,7 @@
 > Chaque projet inclut un README clair, des scripts reproductibles et un focus sécurité.
 
 ---
-<h1 align="center">🎓 Formation</h1>
+<h1>🎓 Formation</h1>
 
 <p align="center">
 
@@ -57,7 +57,7 @@ Rythme : 3 semaines entreprise / 1 semaine école (2026 → 2027)
 [![Programme de formation](https://img.shields.io/badge/📘%20Consulter%20le%20programme%20de%20formation-0ea5e9?style=for-the-badge)](https://drive.google.com/drive/folders/1DUZgEuF1P5aHJ33YwddJcG51iK5j6dnX)
 
 ---
-<h1 align="center">🧰 Technologies & Tools</h1>
+<h1>🧰 Technologies & Tools</h1>
 
 <p align="center">
 
