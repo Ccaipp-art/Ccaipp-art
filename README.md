@@ -118,14 +118,25 @@
 **Python · Kubernetes · Terraform**
 
 
-### 🤝 Me contacter
+<!-- Séparateur “wave” simple -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=100&section=footer"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Théo_FRANÇOIS-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theofrancois/)  
-📧 **theoh.francois@laposte.net**  
-🔗 [Linktree](https://linktr.ee/tfs_ccaipp?utm_source=qr_code)
-
----
+<!-- Footer -->
+<p align="center">
+  <b>Merci de votre visite 🙌</b><br/>
+  <i>“Automatiser pour mieux sécuriser.”</i>
+</p>
 
 <p align="center">
-  <em>“Automatiser pour mieux sécuriser.”</em>
+  <a href="https://www.linkedin.com/in/theofrancois/">
+    <img src="https://img.shields.io/badge/LinkedIn-Théo%20FRANÇOIS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:theoh.francois@laposte.net">
+    <img src="https://img.shields.io/badge/Email-theoh.francois@laposte.net-1f2937?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/tfs_ccaipp?utm_source=qr_code">
+    <img src="https://img.shields.io/badge/Linktree-TFS-39e09b?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
 </p>
