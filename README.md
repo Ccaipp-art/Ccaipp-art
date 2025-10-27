@@ -31,11 +31,41 @@
 
 ---
 
-### 🚀 Projets phares
+## 🚀 Projets mis en avant
 
-- 🔐 **Infra as Code sécurisée** — déploiements Ansible + Docker *(docs & playbooks)*  
-- 📊 **Stack de supervision** — Prometheus + Grafana avec alerting configuré  
-- ☁️ **Mini-lab AWS** — automatisation des politiques IAM & gestion des buckets S3  
+<div align="center">
+
+<!-- Carte 1 -->
+<a href="https://github.com/Ccaipp-art/linux-secure-vm-setup" style="text-decoration:none;">
+  <div style="display:inline-block; width:420px; margin:8px; padding:16px; border:1px solid #e1e4e8; border-radius:12px; background:#fff; box-shadow: 0 1px 3px rgba(0,0,0,0.04); text-align:left;">
+    <div style="font-size:16px; font-weight:700; color:#0969da; margin-bottom:6px;">linux-secure-vm-setup</div>
+    <div style="font-size:13px; color:#57606a; margin-bottom:10px;">Scripts et playbooks <b>Ansible</b> pour durcir et configurer une VM Linux (patchs, users, pare-feu, audit).</div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20" height="20" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" />
+      <span style="font-size:12px; color:#57606a; margin-left:6px;">Ansible · Linux · Bash · Docker</span>
+    </div>
+  </div>
+</a>
+
+<!-- Carte 2 -->
+<a href="https://github.com/Ccaipp-art/simplon-reseaux-cyber" style="text-decoration:none;">
+  <div style="display:inline-block; width:420px; margin:8px; padding:16px; border:1px solid #e1e4e8; border-radius:12px; background:#fff; box-shadow: 0 1px 3px rgba(0,0,0,0.04); text-align:left;">
+    <div style="font-size:16px; font-weight:700; color:#0969da; margin-bottom:6px;">simplon-reseaux-cyber</div>
+    <div style="font-size:13px; color:#57606a; margin-bottom:10px;">Exos & lab réseau/sécurité : <b>supervision Prometheus/Grafana</b>, durcissement, logs & alerting.</div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="20" height="20" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20" height="20" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20" />
+      <span style="font-size:12px; color:#57606a; margin-left:6px;">Prometheus · Grafana · GitLab CI</span>
+    </div>
+  </div>
+</a>
+
+</div>
+
 
 > Chaque projet inclut un README clair, des scripts reproductibles et un focus sécurité.
 
