@@ -33,79 +33,11 @@
 
 ## 🚀 Projets mis en avant
 
-<div align="center">
-
-<!-- ===== CARTE 1 : VM Sécurité ===== -->
-<a href="https://github.com/Ccaipp-art/linux-secure-vm-setup" style="text-decoration:none;">
-  <div style="position:relative;display:inline-block;width:360px;vertical-align:top;margin:10px;padding:18px;border:1px solid #e5e7eb;border-radius:14px;background:#ffffff;box-shadow:0 2px 8px rgba(0,0,0,0.04);text-align:left;overflow:hidden;">
-    
-  <!-- Ruban -->
-  <div style="position:absolute;top:8px;right:-40px;background:#facc15;color:#111827;font-size:11px;font-weight:700;transform:rotate(45deg);width:130px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,0.15);">
-    ⭐ Top Project
-  </div>
-    
-    <div style="font-weight:700;font-size:16px;color:#0969da;margin-bottom:6px;">
-      linux-secure-vm-setup
-    </div>
-    <div style="color:#4b5563;font-size:13px;line-height:1.4;margin-bottom:12px;">
-      Scripts & <b>playbooks Ansible</b> pour durcir une VM Linux : patchs, comptes, pare-feu, audit & logs.
-    </div>
-    <div style="margin-bottom:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" height="22" />
-      <span style="font-size:12px;color:#6b7280;margin-left:6px;">Ansible · Linux · Bash · Docker</span>
-    </div>
-    <img src="https://img.shields.io/badge/Voir%20le%20repo-111827?style=for-the-badge" />
-  </div>
-</a>
-
-<!-- ===== CARTE 2 : Simplon Réseaux & Cyber ===== -->
-<a href="https://github.com/Ccaipp-art/simplon-reseaux-cyber" style="text-decoration:none;">
-  <div style="position:relative;display:inline-block;width:360px;vertical-align:top;margin:10px;padding:18px;border:1px solid #e5e7eb;border-radius:14px;background:#ffffff;box-shadow:0 2px 8px rgba(0,0,0,0.04);text-align:left;overflow:hidden;">
-  
-  <!-- Ruban -->
-  <div style="position:absolute;top:8px;right:-40px;background:#facc15;color:#111827;font-size:11px;font-weight:700;transform:rotate(45deg);width:130px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,0.15);">
-    ⭐ Top Project
-  </div>
-  
-    <div style="font-weight:700;font-size:16px;color:#0969da;margin-bottom:6px;">
-      simplon-reseaux-cyber
-    </div>
-    <div style="color:#4b5563;font-size:13px;line-height:1.4;margin-bottom:12px;">
-      Exos & lab <b>réseau/sécurité</b> : supervision <b>Prometheus/Grafana</b>, durcissement, journalisation & alertes.
-    </div>
-    <div style="margin-bottom:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="22" height="22" />
-      <span style="font-size:12px;color:#6b7280;margin-left:6px;">Prometheus · Grafana · GitLab CI</span>
-    </div>
-    <img src="https://img.shields.io/badge/Voir%20le%20repo-111827?style=for-the-badge" />
-  </div>
-</a>
-
-<!-- ===== CARTE 3 : Stack Prometheus/Grafana ===== -->
-<a href="https://github.com/Ccaipp-art/monitorin-stack-prometheus-grafana" style="text-decoration:none;">
-  <div style="display:inline-block;width:360px;vertical-align:top;margin:10px;padding:18px;border:1px solid #e5e7eb;border-radius:14px;background:#ffffff;box-shadow:0 2px 8px rgba(0,0,0,0.04);text-align:left;">
-    <div style="font-weight:700;font-size:16px;color:#0969da;margin-bottom:6px;">
-      monitorin-stack-prometheus-grafana
-    </div>
-    <div style="color:#4b5563;font-size:13px;line-height:1.4;margin-bottom:12px;">
-      Stack de <b>monitoring</b> reproductible (Makefile / Docker) : métriques, dashboards, rules & alertmanager.
-    </div>
-    <div style="margin-bottom:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="22" height="22" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="22" height="22" />
-      <span style="font-size:12px;color:#6b7280;margin-left:6px;">Docker · Prometheus · Grafana</span>
-    </div>
-    <img src="https://img.shields.io/badge/Voir%20le%20repo-111827?style=for-the-badge" />
-  </div>
-</a>
-
-</div>
+|  | Projet | Résumé | Tech principales |
+|---|---|---|---|
+| ⭐ | **[linux-secure-vm-setup](https://github.com/Ccaipp-art/linux-secure-vm-setup)**<br/><img alt="Top Project" src="https://img.shields.io/badge/Top%20Project-ffd700?style=flat-square"> | Scripts & **playbooks Ansible** pour durcir une VM Linux : patchs, comptes, pare-feu, audit & logs. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20" /> Ansible · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" /> Linux · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" /> Bash · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> Docker |
+| ⭐ | **[simplon-reseaux-cyber](https://github.com/Ccaipp-art/simplon-reseaux-cyber)**<br/><img alt="Top Project" src="https://img.shields.io/badge/Top%20Project-ffd700?style=flat-square"> | Exos & lab **réseau/sécurité** : supervision **Prometheus/Grafana**, durcissement, journaux & alertes. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="20" /> Prometheus · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20" /> Grafana · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" /> GitLab CI |
+|  | **[monitorin-stack-prometheus-grafana](https://github.com/Ccaipp-art/monitorin-stack-prometheus-grafana)** | Stack de **monitoring** reproductible (Makefile / Docker) : métriques, dashboards, rules & alertmanager. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> Docker · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="20" /> Prometheus · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20" /> Grafana |
 
 > Chaque projet inclut un README clair, des scripts reproductibles et un focus sécurité.
 
