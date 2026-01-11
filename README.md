@@ -1,7 +1,7 @@
 <h1 align=center>👋 Salut, je suis Théo 🌱</h1>
 
 <p align="center">
-  <b>Administrateur d’Infrastructures Sécurisées (AIS)</b> — sécurité des systèmes, automatisation & fiabilité IT.<br/>
+  <b>Ingénieur DevSecOps (AIS)</b> — sécurité des systèmes, automatisation & fiabilité IT.<br/>
   Basé à Clichy (Paris) 🇫🇷
 </p>
 
@@ -28,7 +28,7 @@
 | 🖥️ **Systèmes & Réseaux** | Linux, ITIL, supervision, PostgreSQL |
 | 🔒 **Sécurité** | Hardening, conformité ANSSI, gestion de patchs, alerting |
 | ⚙️ **DevOps** | GitLab CI/CD, Ansible, Docker, GitOps |
-| ☁️ **Cloud & Infra** | AWS, Terraform *(WIP)*, Kubernetes *(WIP)* |
+| ☁️ **Cloud & Infra** | AWS, Terraform *(WIP)* |
 | 🧩 **Collaboration** | Notion, JIRA, Trello, rédaction technique |
 
 ---
@@ -43,18 +43,6 @@
 |  | **[monitorin-stack-prometheus-grafana](https://github.com/Ccaipp-art/monitorin-stack-prometheus-grafana)** | Stack de **monitoring** reproductible (Makefile / Docker) : métriques, dashboards, rules & alertmanager. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> Docker · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="20" /> Prometheus · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20" /> Grafana |
 
 > Chaque projet inclut un README clair, des scripts reproductibles et un focus sécurité.
-
----
-<h1>🎓 Formation</h1>
-
-<p align="center">
-
-[![Wild Code School](https://img.shields.io/badge/Wild%20Code%20School-AIS-ff477e?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.wildcodeschool.com/entreprise)
-
-**Administrateur d’Infrastructures Sécurisées (AIS)** — *Wild Code School*  
-Rythme : 3 semaines entreprise / 1 semaine école (2026 → 2027)
-
-[![Programme de formation](https://img.shields.io/badge/📘%20Consulter%20le%20programme%20de%20formation-0ea5e9?style=for-the-badge)](https://drive.google.com/drive/folders/1DUZgEuF1P5aHJ33YwddJcG51iK5j6dnX)
 
 ---
 <h1>🧰 Technologies & Tools</h1>
