@@ -1,7 +1,7 @@
 <h1 align=center>👋 Salut, je suis Théo 🌱</h1>
 
 <p align="center">
-  <b>Ingénieur DevSecOps (AIS)</b> — sécurité des systèmes, automatisation & fiabilité IT.<br/>
+  <b>Ingénieur DevSecOps </b> — sécurité des systèmes, automatisation & fiabilité IT.<br/>
   Basé à Clichy (Paris) 🇫🇷
 </p>
 
