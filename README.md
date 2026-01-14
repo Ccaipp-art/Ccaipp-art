@@ -1,11 +1,11 @@
 <!-- ========================= -->
-<!-- 🇬🇧 ENGLISH (Cloud Engineer oriented) -->
+<!-- 🇬🇧 ENGLISH (DevOps → Cloud orientation) -->
 <!-- ========================= -->
 
 <h1 align="center">👋 Hi, I'm Théo 🌱</h1>
 
 <p align="center">
-  <b>Junior Cloud / Platform Engineer (DevOps background)</b> — automation, reliability & cloud security foundations.<br/>
+  <b>DevOps Engineer | Cloud-oriented (transition in progress)</b> — automation, reliability & cloud infrastructure foundations.<br/>
   Based in Clichy (Paris), France 🇫🇷
 </p>
 
@@ -24,10 +24,11 @@
 
 <ul>
   <li>🛡️ Former <b>DevOps / Security Engineer</b> at the French Ministry of the Interior — supported critical environments (Paris 2024 Olympic Games)</li>
-  <li>☁️ Building Cloud foundations: <b>AWS (IAM, S3)</b>, infrastructure basics, monitoring & automation</li>
-  <li>⚙️ Automation-first mindset: <b>Ansible</b>, <b>GitLab CI/CD</b>, <b>Docker</b>, <b>Terraform</b> <i>(learning)</i></li>
-  <li>📈 Observability: <b>Prometheus / Grafana</b> dashboards, alerting, troubleshooting</li>
-  <li>🎯 Goal: evolve into a <b>Cloud Engineer / Platform Engineer</b> role (secure-by-default, scalable-by-design)</li>
+  <li>🐧 Strong Linux foundations: <b>Debian/Ubuntu</b>, hardening, patch management</li>
+  <li>⚙️ Automation-first mindset: <b>Ansible</b>, <b>GitLab CI/CD</b>, <b>Docker</b>; <b>Terraform</b> <i>(learning)</i></li>
+  <li>📈 Observability: <b>Prometheus / Grafana</b> dashboards, alerting, incident-oriented troubleshooting</li>
+  <li>☁️ Cloud foundations: <b>AWS (IAM, S3)</b>, networking basics, least privilege mindset</li>
+  <li>🎯 Currently evolving from a <b>DevOps</b> role toward <b>Cloud / Platform Engineering</b>, with a focus on reliability, automation and security-first practices</li>
 </ul>
 
 <blockquote>
@@ -41,11 +42,11 @@
 <table>
   <tr>
     <th>Area</th>
-    <th>What I do</th>
+    <th>Technologies & practices</th>
   </tr>
   <tr>
     <td>☁️ Cloud foundations</td>
-    <td>AWS basics (IAM, S3), networking fundamentals, least privilege mindset</td>
+    <td>AWS (IAM, S3), cloud infrastructure fundamentals, networking basics, least privilege mindset</td>
   </tr>
   <tr>
     <td>⚙️ Automation & delivery</td>
@@ -57,7 +58,7 @@
   </tr>
   <tr>
     <td>🔒 Security</td>
-    <td>Linux hardening, patch management, baseline compliance (ANSSI concepts), audit/logging</td>
+    <td>Linux hardening, patch management, baseline compliance concepts (ANSSI), audit/logging</td>
   </tr>
   <tr>
     <td>🧩 Collaboration</td>
@@ -84,8 +85,9 @@
       <img alt="Top Project" src="https://img.shields.io/badge/Top%20Project-ffd700?style=flat-square">
     </td>
     <td>
-      Personal <b>homelab</b> to practice infrastructure operations: services deployment, network basics,
-      monitoring, backups and security baselines — built to be <b>documented and reproducible</b>.
+      Personal <b>homelab</b> used to extend DevOps practices toward infrastructure and cloud concepts:
+      service deployment, networking basics, monitoring, backups and security baselines — with a focus on
+      <b>documentation</b> and <b>reproducibility</b>.
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" /> Linux ·
@@ -135,7 +137,7 @@
 
 <h2>🧰 Technologies</h2>
 
-<h3>☁️ Cloud & Infra</h3>
+<h3>☁️ Cloud & Infrastructure</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45" />
@@ -162,10 +164,29 @@
 <h3>💻 Systems</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
 </p>
-<p><b>Linux</b> (Debian/Ubuntu) · Bash · PostgreSQL</p>
+<p><b>Linux</b> · Debian · Ubuntu · Bash · PostgreSQL</p>
+
+<h3>🧩 Collaboration & Documentation</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45" />
+</p>
+<p><b>Jira</b> · Trello · Confluence · Technical writing</p>
+
+<h3>📈 Currently improving</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45" />
+</p>
+<p><b>Python</b> · Kubernetes · Terraform</p>
 
 ---
 
@@ -178,16 +199,16 @@
   <i>“Build reliable platforms, secure by default.”</i>
 </p>
 
-<br/>
+<br/><br/>
 
 <!-- ========================= -->
-<!-- 🇫🇷 FRANÇAIS (orienté Cloud Engineer) -->
+<!-- 🇫🇷 FRANÇAIS (DevOps → Cloud, transition en cours) -->
 <!-- ========================= -->
 
 <h1 align="center">👋 Salut, je suis Théo 🌱</h1>
 
 <p align="center">
-  <b>Ingénieur DevOps orienté Cloud (socle DevSecOps)</b> — automatisation, fiabilité & bases Cloud security.<br/>
+  <b>Ingénieur DevOps | Orientation Cloud (transition en cours)</b> — automatisation, fiabilité & fondamentaux d’infrastructure Cloud.<br/>
   Basé à Clichy (Paris) 🇫🇷
 </p>
 
@@ -206,10 +227,11 @@
 
 <ul>
   <li>🛡️ Ex-<b>Ingénieur DevOps / Sécurité</b> au Ministère de l’Intérieur — exploitation et sécurisation d’environnements critiques (JO 2024)</li>
-  <li>☁️ Construction des bases Cloud : <b>AWS (IAM, S3)</b>, fondamentaux infra, automatisation et supervision</li>
-  <li>⚙️ Culture “automation-first” : <b>Ansible</b>, <b>GitLab CI/CD</b>, <b>Docker</b>, <b>Terraform</b> <i>(en apprentissage)</i></li>
-  <li>📈 Observabilité : <b>Prometheus / Grafana</b>, dashboards, alerting, troubleshooting</li>
-  <li>🎯 Objectif : évoluer vers un rôle <b>Cloud Engineer / Platform Engineer</b> (secure-by-default, scalable-by-design)</li>
+  <li>🐧 Socle Linux solide : <b>Debian/Ubuntu</b>, durcissement, patch management</li>
+  <li>⚙️ Culture “automation-first” : <b>Ansible</b>, <b>GitLab CI/CD</b>, <b>Docker</b> ; <b>Terraform</b> <i>(en apprentissage)</i></li>
+  <li>📈 Observabilité : <b>Prometheus / Grafana</b>, dashboards, alerting, résolution d’incidents</li>
+  <li>☁️ Fondations Cloud : <b>AWS (IAM, S3)</b>, bases réseau, approche moindre privilège</li>
+  <li>🎯 Évolution progressive d’un rôle <b>DevOps</b> vers des fonctions <b>Cloud / Platform Engineer</b>, avec un focus sur la fiabilité, l’automatisation et la sécurité par défaut</li>
 </ul>
 
 <blockquote>
@@ -227,19 +249,19 @@
   </tr>
   <tr>
     <td>☁️ Fondations Cloud</td>
-    <td>AWS (IAM, S3), bases réseau, approche moindre privilège</td>
+    <td>AWS (IAM, S3), fondamentaux des infrastructures Cloud, bases réseau, approche moindre privilège</td>
   </tr>
   <tr>
     <td>⚙️ Automatisation & delivery</td>
-    <td>Playbooks Ansible, GitLab CI/CD, déploiements reproductibles, scripts Bash</td>
+    <td>Playbooks Ansible, GitLab CI/CD, déploiements reproductibles, scripting (Bash)</td>
   </tr>
   <tr>
     <td>📈 Observabilité</td>
-    <td>Métriques Prometheus, dashboards Grafana, règles d’alerting, résolution d’incidents</td>
+    <td>Métriques Prometheus, dashboards Grafana, règles d’alerting, troubleshooting orienté incident</td>
   </tr>
   <tr>
     <td>🔒 Sécurité</td>
-    <td>Hardening Linux, patch management, notions conformité ANSSI, audit/logging</td>
+    <td>Hardening Linux, patch management, notions de conformité (ANSSI), audit/logging</td>
   </tr>
   <tr>
     <td>🧩 Collaboration</td>
@@ -266,8 +288,9 @@
       <img alt="Top Project" src="https://img.shields.io/badge/Top%20Project-ffd700?style=flat-square">
     </td>
     <td>
-      <b>Homelab</b> pour pratiquer l’exploitation d’infrastructures : déploiement de services, bases réseau,
-      supervision, sauvegardes et baselines sécurité — avec un focus <b>documentation + reproductibilité</b>.
+      <b>Homelab</b> servant de support à l’extension des pratiques DevOps vers des concepts
+      d’infrastructure et de Cloud : déploiement de services, bases réseau, supervision,
+      sauvegardes et baselines sécurité — avec un focus <b>documentation</b> et <b>reproductibilité</b>.
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" /> Linux ·
@@ -298,7 +321,7 @@
   <tr>
     <td></td>
     <td>
-      <b><a href="https://github.com/Ccaipp-art/monitorin-stack-prometheus-grafana">monitorin-stack-prometheus-grafana</a></b>
+      <b><a href="https://github.com/Ccaipp-art/monitorin-stack-prometheus-grafana">monitoring-stack-prometheus-grafana</a></b>
     </td>
     <td>
       Stack de <b>monitoring</b> reproductible (Makefile/Docker) : métriques, dashboards, règles d’alerting & Alertmanager.
@@ -344,10 +367,29 @@
 <h3>💻 Systèmes</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
 </p>
-<p><b>Linux</b> (Debian/Ubuntu) · Bash · PostgreSQL</p>
+<p><b>Linux</b> · Debian · Ubuntu · Bash · PostgreSQL</p>
+
+<h3>🧩 Collaboration & Documentation</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45" />
+</p>
+<p><b>Jira</b> · Trello · Confluence · Rédaction technique</p>
+
+<h3>📈 En cours d’approfondissement</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45" />
+</p>
+<p><b>Python</b> · Kubernetes · Terraform</p>
 
 ---
 
